@@ -1,5 +1,7 @@
 # FMCG pricing, promotion and forecast pack
 
+**▶ Try it live:** [loay-elsafty.netlify.app/fmcg-pricing](https://loay-elsafty.netlify.app/fmcg-pricing/): move a price, test a promotion against its break-even, compare the forecast with what sold.
+
 Three questions a category manager or revenue growth team asks every quarter, answered on three years of real supermarket scanner data in Python:
 
 1. **How much do sales move when price moves?** Price elasticity for 55 products.
